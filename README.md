@@ -52,6 +52,7 @@
 </p>
 
 > Make sure GitHub Actions are enabled to generate this snake automatically.
+> [platane.github.io/snk](https://platane.github.io/snk)
 > ![GitHub Contribution Snake](https://raw.githubusercontent.com/shubhxmsingh/shubhxmsingh/output/github-contribution-grid-snake.svg)
 
 
