@@ -52,7 +52,8 @@
 </p>
 
 > Make sure GitHub Actions are enabled to generate this snake automatically.
-> [Snake GitHub Repo](https://github.com/Platane/snk)
+> ![GitHub Contribution Snake](https://raw.githubusercontent.com/shubhxmsingh/shubhxmsingh/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -85,9 +86,9 @@
 
 ## ✨ Inspirational Quote
 
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/shubhxmsingh/shubhxmsingh/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
