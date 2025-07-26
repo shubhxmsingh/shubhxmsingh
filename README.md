@@ -18,7 +18,8 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,prisma,tailwind,ts,git,openai,vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,tailwind,express,nodejs,mongodb,mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,git,vercel,openai" height="40" />
   <img src="https://img.shields.io/badge/ShadCN_UI-FF6B81?style=for-the-badge&logo=uikit&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/NeonDB-008AFF?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
 </p>
@@ -45,20 +46,15 @@
 
 ---
 
-
-
 ## 🐍 Contribution Graph Snake
 
 <p align="center">
   <img src="https://shubhxmsingh.github.io/snk/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-
-
-> Make sure GitHub Actions are enabled to generate this snake automatically.
-> [platane.github.io/snk](https://platane.github.io/snk)
+> Make sure GitHub Actions are enabled to generate this snake automatically.  
+> [platane.github.io/snk](https://platane.github.io/snk)  
 > ![GitHub Contribution Snake](https://raw.githubusercontent.com/shubhxmsingh/shubhxmsingh/output/github-contribution-grid-snake.svg)
-
 
 ---
 
@@ -76,7 +72,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhxmsingh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shubham.sikarwar2005@gmail.com" target="_blank">
@@ -84,6 +80,9 @@
   </a>
   <a href="https://github.com/shubhxmsingh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/shubhxmsingh_07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -101,7 +100,7 @@
 
 <!--
 🛠️ Tips:
-- Make sure to replace `your-linkedin` with your real LinkedIn URL.
-- Enable Snake GitHub Action: https://github.com/Platane/snk
-- You can also add blog links, dev.to articles, or a portfolio site.
+- Make sure to replace links with your real portfolio or dev.to/blog if needed.
+- You can expand your Tech Stack by adding icons from https://skillicons.dev
+- Don’t forget to commit the README and push to `main`
 -->
