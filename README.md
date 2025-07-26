@@ -45,11 +45,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+
+
+## 🐍 Contribution Graph Snake
 
 <p align="center">
-  <img src="https://shubhxmsingh.github.io/shubhxmsingh/github-contribution-grid-snake-dark.svg" />
+  <img src="https://shubhxmsingh.github.io/snk/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
 
 
 > Make sure GitHub Actions are enabled to generate this snake automatically.
