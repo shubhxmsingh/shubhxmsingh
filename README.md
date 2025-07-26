@@ -48,8 +48,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhxmsingh/shubhxmsingh/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://shubhxmsingh.github.io/shubhxmsingh/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 > Make sure GitHub Actions are enabled to generate this snake automatically.
 > [platane.github.io/snk](https://platane.github.io/snk)
