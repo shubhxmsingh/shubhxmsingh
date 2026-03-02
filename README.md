@@ -56,14 +56,6 @@
 
 ---
 
-## 🔥 Weekly GitHub Activity
-
-<details>
-  <summary>📊 Click to expand</summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhxmsingh&theme=react-dark" />
-  </p>
-</details>
 
 ---
 
